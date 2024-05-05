@@ -12,3 +12,4 @@ Hi, I'm a fullstack developer who loves music and gaming. I'm writing a short in
     <td><img src="tailwind.svg" alt="Tailwind"></td>
   </tr>
 </table>
+
